@@ -45,14 +45,14 @@ https://rawg.io/apidocs
 ### 🔐 Login
 ![Login](assets/screenshots/login.png)
 
-### 📝 Cadastro
-![Cadastro](assets/screenshots/detales.png)
-
 ### 🏠 Home
 ![Home](assets/screenshots/home.png)
 
 ### 🎮 Jogos
 ![Jogos](assets/screenshots/jogos.png)
+
+### 🔎 Detalhes
+![Detalhes](assets/screenshots/detales.png)
 
 ### 🚀 Lançamentos
 ![Lançamentos](assets/screenshots/lancamentos.png)
