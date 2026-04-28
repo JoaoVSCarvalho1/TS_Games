@@ -52,7 +52,7 @@ https://rawg.io/apidocs
 ![Jogos](assets/screenshots/jogos.png)
 
 ### 🔎 Detalhes
-![Detalhes](assets/screenshots/detales.png)
+![Detalhes](assets/screenshots/detalhes.png)
 
 ### 🚀 Lançamentos
 ![Lançamentos](assets/screenshots/lancamentos.png)
